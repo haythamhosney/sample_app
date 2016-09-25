@@ -1,5 +1,6 @@
 require 'spec_helper'
 
+
 describe UsersController do
 =begin
   render_views
